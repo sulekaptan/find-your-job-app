@@ -1,6 +1,7 @@
 # Find Your Job App  
 I learned some basic components in this repo. These: <br/>
 
+📍 **Text:** displaying text, supports nesting, styling, and touch handling <br/>
 📍 **TouchableOpacity:** button or interactive elements <br/>
 📍 **ActivityIndicator:** spinner or loading indicator <br/>
 📍 **FlatList:** a long list of items, like the map function in React <br/>
